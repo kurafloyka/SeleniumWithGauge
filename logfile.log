@@ -1,0 +1,8 @@
+2019-07-12 21:19:25,857 : DEBUG : step_impl.step_impl : A debug message
+2019-07-12 21:19:25,858 : INFO : step_impl.step_impl : An info message
+2019-07-12 21:19:25,858 : WARNING : step_impl.step_impl : Something is not right.
+2019-07-12 21:19:25,858 : ERROR : step_impl.step_impl : A Major error has happened.
+2019-07-12 21:19:25,858 : CRITICAL : step_impl.step_impl : Fatal error. Cannot continue
+2019-07-12 21:19:25,860 : DEBUG : step_impl.step_impl : 3This is a debug message
+2019-07-12 21:19:32,753 : WARNING : step_impl.step_impl : 1This is a warning
+2019-07-12 21:19:32,753 : ERROR : step_impl.step_impl : 2This is an error
